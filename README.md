@@ -32,9 +32,9 @@ This function sets the table data without filters equal to the newly defined fil
 For the web page user to filter the data on their end, accurate entries of what data is available are needed but the table responds immediately with each entry as shown below:
 
 - Filtering based on the City's name:
-![city]((static/images/city.png)
+![city](static/images/city.png)
 - Filtering based on the shape observed:
-![shape]((static/images/shape.png)
+![shape](static/images/shape.png)
 - Filtering based on date, city and shape:
 ![date_city_shape](static/images/date_city_shape.png)
 
