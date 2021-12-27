@@ -3,7 +3,7 @@
 ### *Files*:
 - HTML File: [index](index.html)
 - JavaScript App File: [app](static/js/app.js)
-- Data File:[data](static/js/data.js)
+- Data File: [data](static/js/data.js)
 
 ## **Project Overview**:
 The purpose of this project was to use JavaScript and HTML to create a web app related to instances of UFO sightings that is both aesthetically pleasing and responsive to user inputs. A colleague named Dana was interested in creating a web page using JavaScript code and wanted to have the focus be on UFO sightings since 2010. By coding the page's actions in a JavaScript file and using an HTML file to present the scripts, the final product would present an information section and a filterable table of sighting events listed in a data file. The events can be filtered through five different parameters to narrow the results down significantly for very specific criteria relating to the date, location and nature of the observations.
